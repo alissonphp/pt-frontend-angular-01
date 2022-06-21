@@ -19,6 +19,8 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 |  03  | Como usuário correntista do Pulse Bank, gostaria de realizar uma transferência de valor para uma outra conta do banco |
 |  04  | Como usuário correntista do Pulse Bank, devo ter a opção de realizar o *logout* do internet banking |
 
+- P.s.: aqui nesse repositório tem um diretório com as [marcas](./assets/marcas/) da Pulse e do Grupo Mateus.
+
 ## Considerações sobre a API
 - Utilize a visualização do [Swagger](https://pulse-bank-api-test.herokuapp.com) para validar o *body* e as *responses* possíveis para cada endpoint;
 - Alguns endpoints exigem o *header* de autorização para que seja possível validar o solicitante; esses endpoints possuem um **cadeado** na visão do swagger;
@@ -38,7 +40,7 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 - Estratégias de roteamento e proteção de rotas;
 
 ## O que pode ser um diferencial no seu projeto
-- Aplicação de testes automatizados (unidades ou ponta a ponta);
+- Aplicação de testes automatizados (unidades e/ou ponta a ponta);
 - O produto final rodando em uma imagem docker buildada e disponibilizada no docker hub;
 - Aplicação de temas na UI (modo escuro, modo claro, etc);
 - Práticas de *mobile first* e layout responsivo;
@@ -48,4 +50,6 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 
 ## Como entregar o seu projeto
 - Você pode utilizar um repositório no seu Github para subir o projeto;
-- Quando concluir, 
+- Quando concluir, acesse a [aba de issues desse repositório](https://github.com/alissonphp/pt-frontend-angular-01/issues) e cria uma [nova issue](https://github.com/alissonphp/pt-frontend-angular-01/issues/new) informando no título o **seu nome** e no corpo você pode ficar à vontade para falar um pouco sobre o seu projeto e **não esqueça de colar o link para o seu repositório**, essa parte é importante =D
+- Marque a issua com a *label* **finished**
+- Pronto! Agora vamos dar uma olhadinha aqui no seu projeto e muito em breve a gente se fala novamente ;) 
