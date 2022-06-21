@@ -35,6 +35,7 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 - Escrita utilizando TypeScript;
 - Nível de entendimento do framework e sua cli;
 - Organização de componentes visuais;
+- Uso de formulários e validações;
 - Estratégias de comunicação com a API Rest;
 - Estratégia de armazenamento e gerenciamento do jwt;
 - Estratégias de roteamento e proteção de rotas;
@@ -42,6 +43,7 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 ## O que pode ser um diferencial no seu projeto
 - Aplicação de testes automatizados (unidades e/ou ponta a ponta);
 - O produto final rodando em uma imagem docker buildada e disponibilizada no docker hub;
+- Formulários reativos;
 - Aplicação de temas na UI (modo escuro, modo claro, etc);
 - Práticas de *mobile first* e layout responsivo;
 - Técnicas visando a experiência do usuário no uso da aplicação;
