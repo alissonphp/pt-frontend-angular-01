@@ -19,6 +19,10 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 |  03  | Como usuário correntista do Pulse Bank, gostaria de realizar uma transferência de valor para uma outra conta do banco |
 |  04  | Como usuário correntista do Pulse Bank, devo ter a opção de realizar o *logout* do internet banking |
 
+- Fizemos um pequeno [*WIREFRAME*](https://whimsical.com/pulse-bank-wireflow-BMGgFTL8D5ry6iAYiER2VZ) para exemplificar um modelo de estrutura, mas você pode ficar à vontade para seguí-lo ou não =D
+
+![](./assets/Pulse%20Bank%20-%20Wireflow.png)
+
 - P.s.: aqui nesse repositório tem um diretório com as [marcas](./assets/marcas/) da Pulse e do Grupo Mateus.
 
 ## Considerações sobre a API
