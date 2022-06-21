@@ -7,7 +7,7 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 
 - Essa aplicação conta com uma API Rest que está disponível publicamente nesse DNS base: *https://pulse-bank-api-test.herokuapp.com*
 
-- Todos os endpoints estão documentados na especificação [Open API 3](https://swagger.io/specification/) e podem ser visualizados através do [Swagger](https://pulse-bank-api-test.herokuapp.com) do projeto.
+- Todos os endpoints estão documentados na especificação [Open API 3](https://swagger.io/specification/) e podem ser visualizados através do [Swagger](https://pulse-bank-api-test.herokuapp.com/api) do projeto.
 
 ## Seu objetivo
 - Desenvolver uma SPA (Single Page Application) utilizando o [Framework Angular](https://angular.io/docs) na sua versão *stable v13.3.x*, utilizando alguma biblioteca/framework de UI (bootstrap, material ui, etc..), que possa atender às seguintes *user stories*: 
@@ -26,7 +26,7 @@ Olá! Que bom te ver aqui no nosso teste prático para Desenvolvedor(a) Frontend
 - P.s.: aqui nesse repositório tem um diretório com as [marcas](./assets/marcas/) da Pulse e do Grupo Mateus.
 
 ## Considerações sobre a API
-- Utilize a visualização do [Swagger](https://pulse-bank-api-test.herokuapp.com) para validar o *body* e as *responses* possíveis para cada endpoint;
+- Utilize a visualização do [Swagger](https://pulse-bank-api-test.herokuapp.com/api) para validar o *body* e as *responses* possíveis para cada endpoint;
 - Alguns endpoints exigem o *header* de autorização para que seja possível validar o solicitante; esses endpoints possuem um **cadeado** na visão do swagger;
 - No [Swagger](https://pulse-bank-api-test.herokuapp.com), logo abaixo do título e descrição da API, existe um botão "AUTHORIZE" que apresenta a opção de definir o token de autorização; esse token (json web token) é adiquirido como resposta do [endpoint de login](https://pulse-bank-api-test.herokuapp.com/api/#/authentication/AuthController_login)
 - Para cadastrar um novo usuário (e posteriormente realizar o login) você pode enviar uma requisição POST ao [endpoint de usuários](https://pulse-bank-api-test.herokuapp.com/api/#/users/UsersController_store) informando seus dados;
